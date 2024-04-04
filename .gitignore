@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!network/
+!chinese/
+!network/*
+!chinese/*
